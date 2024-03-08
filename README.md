@@ -1,3 +1,4 @@
+
 # Spring Web Application
 
 This is a simple Spring web application showcasing the basic structure and features of a Spring-based web project.
@@ -24,7 +25,7 @@ Before you begin, ensure you have the following installed on your machine:
 
 1. Clone the repository:
 
- ```git clone https://github.com/your-username/spring-web-app.git```
+	```git clone https://github.com/your-username/spring-web-app.git```
 
 5. Open the project in your chosen IDE.
 
@@ -36,20 +37,22 @@ Before you begin, ensure you have the following installed on your machine:
 
 	The project structure follows the standard Maven project structure for a Spring web application.
 
-#Dependencies
+## Dependencies
+
 Spring Boot
 Thymeleaf (or your preferred template engine)
 
-#Running the Application
+## Running the application
+
 Run the application using your IDE or Maven:
 
-bash
-Copy code
-mvn spring-boot:run
+  ```mvn spring-boot:run```
+
 Open a web browser and navigate to http://localhost:8080.
 
-#Contributing
+## Contributing
+
 Feel free to contribute by opening issues or submitting pull requests. Contributions are welcome!
 
-#License
+## License
 This project is licensed under the MIT License.
