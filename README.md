@@ -33,9 +33,9 @@ Before you begin, ensure you have the following installed on your machine:
 
 	```mvn clean install```
 
-11. Project Structure
+## Project Structure
 
-	The project structure follows the standard Maven project structure for a Spring web application.
+The project structure follows the standard Maven project structure for a Spring web application.
 
 ## Dependencies
 
